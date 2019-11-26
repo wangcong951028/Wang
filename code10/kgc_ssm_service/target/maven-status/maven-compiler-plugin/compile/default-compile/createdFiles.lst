@@ -1,0 +1,12 @@
+com\kgc\service\IRoleService.class
+com\kgc\service\impl\RoleServiceImpl.class
+com\kgc\service\impl\ProductServiceImpl.class
+com\kgc\service\IProductService.class
+com\kgc\service\impl\PermissionServiceImpl.class
+com\kgc\service\impl\UserServiceImpl.class
+com\kgc\service\IPermissionService.class
+com\kgc\service\ISysLogService.class
+com\kgc\service\IUserService.class
+com\kgc\service\impl\OrdersServiceImpl.class
+com\kgc\service\impl\SysLogServiceImpl.class
+com\kgc\service\IOrdersService.class

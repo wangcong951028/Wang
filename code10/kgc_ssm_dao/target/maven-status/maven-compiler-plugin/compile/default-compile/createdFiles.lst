@@ -1,0 +1,8 @@
+com\kgc\dao\IRoleDao.class
+com\kgc\dao\ITravellerDao.class
+com\kgc\dao\IUserDao.class
+com\kgc\dao\IPermissionsDao.class
+com\kgc\dao\ISysLogDao.class
+com\kgc\dao\IOrdersDao.class
+com\kgc\dao\IMemberDao.class
+com\kgc\dao\IProductDao.class

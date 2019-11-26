@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringSecityTest/SpringSecityTest.iml" filepath="$PROJECT_DIR$/SpringSecityTest/SpringSecityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm/kgc_ssm.iml" filepath="$PROJECT_DIR$/kgc_ssm/kgc_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm_dao/kgc_ssm_dao.iml" filepath="$PROJECT_DIR$/kgc_ssm_dao/kgc_ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm_domain/kgc_ssm_domain.iml" filepath="$PROJECT_DIR$/kgc_ssm_domain/kgc_ssm_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm_service/kgc_ssm_service.iml" filepath="$PROJECT_DIR$/kgc_ssm_service/kgc_ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm_utils/kgc_ssm_utils.iml" filepath="$PROJECT_DIR$/kgc_ssm_utils/kgc_ssm_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc_ssm_web/kgc_ssm_web.iml" filepath="$PROJECT_DIR$/kgc_ssm_web/kgc_ssm_web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+com\kgc\controller\RoleController.class
+com\kgc\controller\PermissionController.class
+com\kgc\controller\ProductController.class
+com\kgc\controller\LogAop.class
+com\kgc\controller\SysLogController.class
+com\kgc\controller\UserController.class
+com\kgc\controller\OrdersController.class

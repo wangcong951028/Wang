@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kgc_ssm_web:war">
+    <output-path>$PROJECT_DIR$/kgc_ssm_web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>kgc_ssm_web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kgc_ssm_web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="kgc_ssm_web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+com\kgc\domain\Orders.class
+com\kgc\domain\Permission.class
+com\kgc\domain\Traveller.class
+com\kgc\domain\Member.class
+com\kgc\domain\Product.class
+com\kgc\domain\SysLog.class
+com\kgc\domain\UserInfo.class
+com\kgc\domain\Role.class
